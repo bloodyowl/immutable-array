@@ -4,7 +4,7 @@
   },
   "name": "bloody-immutable-array",
   "description": "makes array mutators method act like accessors. this way you're able to work on array as immutable structures.",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "directories": {
     "test": "test"
