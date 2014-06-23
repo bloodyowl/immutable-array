@@ -21,7 +21,7 @@ var accessors = [
   "reduce",
   "slice",
   "filter",
-  "every",
+  "every"
 ]
 
 function createMutatorCallback(method){
